@@ -1,7 +1,8 @@
 # 💫 About Me:
 - Love Programming 💻❤️
 - Faithful Muslim 🕌🙏
-- Interest in Science 🔬🧠 and Theology 📚✨
+- Interest in Science 🔬🧠
+- Lover of Theology📚✨
 - Spanish speaker 🗣️
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/e.mascate) 
