@@ -1,5 +1,8 @@
 # 💫 About Me:
-Love Programming 💻❤️<br>Faithful Muslim 🕌🙏<br>Interest in Science 🔬🧠 and Theology 📚✨<br>Spanish speaker 🗣️
+- Love Programming 💻❤️
+- Faithful Muslim 🕌🙏
+- Interest in Science 🔬🧠 and Theology 📚✨
+- Spanish speaker 🗣️
 
 
 ## 🌐 Socials:
